@@ -10,5 +10,8 @@
     "rangequest"
   ],
   "author": "Praveen Dias",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.2"
+  }
 }
